@@ -1,8 +1,8 @@
 #include <iostream>
-
+#include "q41.h"
 using namespace std;
 
 int main()
 {
-  cout << "Hello, world!\n";
+  q41();
 }

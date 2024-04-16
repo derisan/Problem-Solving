@@ -149,6 +149,25 @@
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="q10.h" />
+    <ClInclude Include="q11.h" />
+    <ClInclude Include="q19.h" />
+    <ClInclude Include="q20.h" />
+    <ClInclude Include="q21.h" />
+    <ClInclude Include="q27.h" />
+    <ClInclude Include="q28.h" />
+    <ClInclude Include="q38.h" />
+    <ClInclude Include="q39.h" />
+    <ClInclude Include="q4.h" />
+    <ClInclude Include="q40.h" />
+    <ClInclude Include="q41.h" />
+    <ClInclude Include="q5.h" />
+    <ClInclude Include="q6.h" />
+    <ClInclude Include="q7.h" />
+    <ClInclude Include="q8.h" />
+    <ClInclude Include="q9.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

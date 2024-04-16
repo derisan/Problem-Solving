@@ -19,4 +19,57 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="q4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q19.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q20.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q21.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q27.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q28.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q38.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q39.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q40.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q41.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
