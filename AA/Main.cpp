@@ -1,8 +1,6 @@
-#include <iostream>
-#include "q41.h"
-using namespace std;
+#include "q42.h"
 
 int main()
 {
-  q41();
+  q42();
 }

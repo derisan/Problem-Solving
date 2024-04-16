@@ -71,5 +71,8 @@
     <ClInclude Include="q41.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="q42.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
