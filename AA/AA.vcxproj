@@ -165,6 +165,8 @@
     <ClInclude Include="q42.h" />
     <ClInclude Include="q43.h" />
     <ClInclude Include="q44.h" />
+    <ClInclude Include="q45.h" />
+    <ClInclude Include="q46.h" />
     <ClInclude Include="q5.h" />
     <ClInclude Include="q6.h" />
     <ClInclude Include="q7.h" />
