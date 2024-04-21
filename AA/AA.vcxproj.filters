@@ -95,5 +95,11 @@
     <ClInclude Include="q49.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="q50.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q51.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
