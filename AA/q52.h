@@ -4,7 +4,8 @@
 
 using namespace std;
 
-int main() {
+void q52() 
+{
   int N;
   cin >> N;
 
@@ -14,7 +15,7 @@ int main() {
   int idx2 = 1, idx3 = 1, idx5 = 1;
   int next_ugly_2 = 2, next_ugly_3 = 3, next_ugly_5 = 5;
 
-  for (int i = 2; i <= N; ++i) 
+  for (int i = 2; i <= N; ++i)
   {
     ugly[i] = min(next_ugly_2, min(next_ugly_3, next_ugly_5));
 
@@ -24,5 +25,4 @@ int main() {
   }
 
   cout << ugly[N] << endl;
-
-  return 0;
+}
