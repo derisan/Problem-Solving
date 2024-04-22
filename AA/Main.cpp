@@ -1,6 +1,6 @@
-#include "q51.h"
+#include "q52.h"
 
 int main()
 {
-  q51();
+  q52();
 }

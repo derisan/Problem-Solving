@@ -173,6 +173,7 @@
     <ClInclude Include="q5.h" />
     <ClInclude Include="q50.h" />
     <ClInclude Include="q51.h" />
+    <ClInclude Include="q52.h" />
     <ClInclude Include="q6.h" />
     <ClInclude Include="q7.h" />
     <ClInclude Include="q8.h" />
